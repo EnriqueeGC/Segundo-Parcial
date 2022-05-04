@@ -1,0 +1,8 @@
+﻿  Persona.cpp
+  Source.cpp
+C:\Users\Windows 10\Documents\Desktop\UMG\III SEMESTRE\PROGRAMACION I\PARCIAL 2\segundo_parcial_programacion_I\segundo_parcial_programacion_I\Persona.h(39,1): error C3867: 'conexionBD::getConectar': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\Windows 10\Documents\Desktop\UMG\III SEMESTRE\PROGRAMACION I\PARCIAL 2\segundo_parcial_programacion_I\segundo_parcial_programacion_I\Persona.h(39,1): error C3867: 'conexionBD::getConectar': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\Windows 10\Documents\Desktop\UMG\III SEMESTRE\PROGRAMACION I\PARCIAL 2\segundo_parcial_programacion_I\segundo_parcial_programacion_I\Source.cpp(5,23): error C2512: 'Persona': no hay disponible un constructor predeterminado adecuado
+C:\Users\Windows 10\Documents\Desktop\UMG\III SEMESTRE\PROGRAMACION I\PARCIAL 2\segundo_parcial_programacion_I\segundo_parcial_programacion_I\Source.cpp(5,23): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\Windows 10\Documents\Desktop\UMG\III SEMESTRE\PROGRAMACION I\PARCIAL 2\segundo_parcial_programacion_I\segundo_parcial_programacion_I\Source.cpp(5,13): error C2512: 'Persona': no hay disponible un constructor predeterminado adecuado
+C:\Users\Windows 10\Documents\Desktop\UMG\III SEMESTRE\PROGRAMACION I\PARCIAL 2\segundo_parcial_programacion_I\segundo_parcial_programacion_I\Persona.h(8,7): message : vea la declaración de 'Persona'
